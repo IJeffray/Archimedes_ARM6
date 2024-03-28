@@ -139,17 +139,21 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QENFIPAL
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for ARM2toARM6Adapter\Design Rule Check - ARM2toARM6Adapter.html
+DItemRevisionGUID=
+
 [Parameter1]
-Name=BOM_RevNo
-Value=1.0
+Name=
+Value=
 
 [Parameter2]
-Name=Engineer_Name
-Value=Codion Ltd
+Name=Sch_RevNo
+Value=1.1
 
 [Parameter3]
-Name=PCB_RevNo
-Value=1.0
+Name=Sch_releaseDate
+Value=2024
 
 [Parameter4]
 Name=Project_Title
@@ -160,12 +164,16 @@ Name=ProjectName
 Value=ARM2 to ARM6 Adapter
 
 [Parameter6]
-Name=Sch_releaseDate
-Value=2024
+Name=PCB_RevNo
+Value=1.1
 
 [Parameter7]
-Name=Sch_RevNo
-Value=1.0
+Name=Engineer_Name
+Value=Codion Ltd
+
+[Parameter8]
+Name=BOM_RevNo
+Value=1.1
 
 [Configuration1]
 Name=Sources
