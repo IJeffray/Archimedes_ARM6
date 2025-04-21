@@ -1,6 +1,6 @@
 # Acorn Archimedes ARM6 (ARM610/ARM710) processor card
 
-March 2024
+April 2025
 
 
 ![3D View](Generated/Archimedes_ARM6_3D_View.PNG)
@@ -16,5 +16,5 @@ No warranty is provided, and this work is used at your own risk.
 
 Licenced as CC BY-SA 4.0
 
-Copyright 2024 Ian Jeffray
+Copyright 2025 Ian Jeffray
 
