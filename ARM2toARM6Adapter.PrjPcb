@@ -139,32 +139,66 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QENFIPAL
 
+[Document6]
+DocumentPath=C:\Users\ian\Documents\AltiumLL\SamacSys.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=MPRJBCLL
+
+[Document7]
+DocumentPath=C:\Users\ian\Documents\AltiumLL\SamacSys.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=NGLTGAHM
+
 [Parameter1]
-Name=Sch_RevNo
+Name=BOM_RevNo
 Value=1.1
 
 [Parameter2]
-Name=Sch_releaseDate
-Value=2025
-
-[Parameter3]
-Name=Project_Title
-Value=ARM2 to ARM6 Adapter
-
-[Parameter4]
-Name=ProjectName
-Value=ARM2 to ARM6 Adapter
-
-[Parameter5]
-Name=PCB_RevNo
-Value=1.1
-
-[Parameter6]
 Name=Engineer_Name
 Value=Codion Ltd
 
+[Parameter3]
+Name=PCB_RevNo
+Value=1.1
+
+[Parameter4]
+Name=Project_Title
+Value=ARM2 to ARM6 Adapter
+
+[Parameter5]
+Name=ProjectName
+Value=ARM2 to ARM6 Adapter
+
+[Parameter6]
+Name=Sch_releaseDate
+Value=2025
+
 [Parameter7]
-Name=BOM_RevNo
+Name=Sch_RevNo
 Value=1.1
 
 [Configuration1]
@@ -1246,9 +1280,9 @@ UpdateVariants=1
 UpdateToLatestRevision=1
 PartTypes=0
 ComponentLibIdentifierKind0=Library Name And Type
-ComponentLibraryIdentifier0=Schlib1.SchLib
-ComponentDesignItemID0=VY86C610
-ComponentSymbolReference0=VY86C610
+ComponentLibraryIdentifier0=SamacSys.SchLib
+ComponentDesignItemID0=74ACT08MTC
+ComponentSymbolReference0=74ACT08MTC
 ComponentUpdate0=1
 ComponentIsDeviceSheet0=0
 FullReplace=1
@@ -1264,24 +1298,34 @@ RemoveParameters=0
 AddModels=1
 RemoveModels=1
 UpdateCurrentModels=1
-ParameterName0=Comment
+ParameterName0=Arrow Part Number
 ParameterUpdate0=1
-ParameterName1=Component Kind
+ParameterName1=Arrow Price/Stock
 ParameterUpdate1=1
-ParameterName2=Description
+ParameterName2=Comment
 ParameterUpdate2=1
-ParameterName3=Height
+ParameterName3=Component Kind
 ParameterUpdate3=1
-ParameterName4=Library Reference
+ParameterName4=Datasheet Link
 ParameterUpdate4=1
-ParameterName5=Manufacturer_Name
+ParameterName5=Description
 ParameterUpdate5=1
-ParameterName6=Manufacturer_Part_Number
+ParameterName6=Height
 ParameterUpdate6=1
+ParameterName7=Library Reference
+ParameterUpdate7=1
+ParameterName8=Manufacturer_Name
+ParameterUpdate8=1
+ParameterName9=Manufacturer_Part_Number
+ParameterUpdate9=1
+ParameterName10=Mouser Part Number
+ParameterUpdate10=1
+ParameterName11=Mouser Price/Stock
+ParameterUpdate11=1
 ModelTypeGroup0=PCBLIB
 ModelTypeUpdate0=1
 ModelType0=PCBLIB
-ModelName0=TQFP144
+ModelName0=SOIC127P600X175-14N
 ModelUpdate0=1
 
 [DatabaseUpdateOptions]
